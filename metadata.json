@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Assistant",
+  "description": "An advanced voice-controlled local virtual assistant with local storage, calendar tools, reminders, email support, and daily schedule prioritizing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
